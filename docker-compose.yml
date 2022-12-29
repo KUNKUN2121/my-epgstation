@@ -51,7 +51,7 @@ services:
             - ./epgstation/data:/app/data
             - ./epgstation/thumbnail:/app/thumbnail
             - ./epgstation/logs:/app/logs
-            - /media/hdd/tv:/app/recorded
+            - /media/share/tv:/app/recorded
         environment:
             TZ: "Asia/Tokyo"
         depends_on:
