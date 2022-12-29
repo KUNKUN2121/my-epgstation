@@ -13,6 +13,7 @@
 /epgstation/data/streamfiles/*.m3u8
 !/epgstation/config/enc.js.template
 !/epgstation/config/config.yml.template
+!/epgstation/config/config.yml
 !/epgstation/config/operatorLogConfig.sample.yml
 !/epgstation/config/epgUpdaterLogConfig.sample.yml
 !/epgstation/config/serviceLogConfig.sample.yml
